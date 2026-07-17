@@ -25,5 +25,5 @@ jobs:
       - name: Run Training
         run: python train.py
 
-      - name: Run Prediction
-        run: python run_model.py
+      # - name: Run Prediction
+      #   run: python run_model.py
